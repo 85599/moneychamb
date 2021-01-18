@@ -1,13 +1,13 @@
 
   
 
-# moneyChamber 
+# moneyChamb
 
 > Stock portfolio with clear performance graph.
 
   
 
-## Why use moneyChamber ?
+## Why use moneyChamb ?
 
 Most of stock portfolios will look like example below.
 
