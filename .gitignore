@@ -1,0 +1,12 @@
+*.pickle
+sensData.py
+dividendPaid.py
+bfg.jar
+secret.txt
+/orders.py
+__pycache__
+.vscode
+/deposits.py
+/orders.txt
+statement.txt
+dividends.txt
