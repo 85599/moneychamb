@@ -1,7 +1,7 @@
 
   
 
-# moneyChamber V2
+# moneyChamber 
 
 > Stock portfolio with clear performance graph.
 
@@ -32,7 +32,7 @@ With moneyChamber you will receive much clearer overview on performance of your 
 ## How to clone moneyChamber
   >- Clone this repository to your local machine using
  ```Python
-git clone https://github.com/hmelino/moneyChamber.git
+git clone https://github.com/85599/moneychamb.git
 ```
 
 
@@ -96,6 +96,6 @@ retirement.showGraph()
 >MoneyChamber will automatically calculate dividend yeld and payment received per individual stock.
   
 ## Contact
->  - My github portfolio <a  href="https://github.com/hmelino"  target="_blank">`https://github.com/hmelino`</a>
+>  - My github portfolio <a  href="https://github.com/85599"  target="_blank">`https://github.com/85599`</a>
 >
->- If you have got any issues or ideas for this package, or just wanna say hello :), email me at hmelino.github@gmail.com
+>- If you have got any issues or ideas for this package, or just wanna say hello :), email me at khushaljain023@gmail.com
